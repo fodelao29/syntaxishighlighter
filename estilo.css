@@ -1,0 +1,30 @@
+.estilo{
+    color: rgb(84, 71, 207);
+    background-color: darkgray;
+}
+.tabulador{
+    color: black;}
+.variables{
+    color: yellow;
+}
+.operadores{
+    color:rgb(255, 15, 115)
+}
+.enteros{
+    color:rgb(43, 12, 25)
+}
+.flotante{
+    color:rgb(78, 72, 72)
+}
+.strings{
+    color:rgb(2, 133, 19)
+}
+.comentarios{
+    color:rgb(0, 54, 134)
+}
+.comentariosMult{
+    color:rgb(102, 58, 0)
+}
+.palabrasReservadas{
+    color:rgb(255, 0, 0)
+}

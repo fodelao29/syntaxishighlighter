@@ -1,0 +1,8 @@
+_+\w+|\w+
+\+|\-|%|\*|\/|\*\*|\+=|\-=|%=|\*=|=|\*\*=|<|>|!|!=|=|==
+[0-9]+
+[0-9]+\.[0-9]+
+".+"|".+|.+"|'.*'|'.+|.+'
+#+.+
+'{3}.*'{3}|"{3}.*"{3}
+and|del|for|is|raise|assert|elif|from|lambda|return|break|else|global|not|try|class|except|if|or|while|continue|exec|import|pass|with|True|False|None|as|async|await|finally|global|while|yield|or|do|in|function|def|bool|int|vector|float|string|end|false|true|abstract|assert|boolean|byte|case|catch|char|default|double|enum|exports|extends|final|finally|implements|instanceof|interface|long|module|native|new|package|private|protected|requires|return|short|static|super|switch|synchronized|this|throw|throws|transient|try|volatile|var|const|goto
