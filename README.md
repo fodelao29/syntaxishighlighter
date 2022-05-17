@@ -1,4 +1,4 @@
-# syntaxishighlighter
+# Syntaxis Highlighter
 This repository is a Syntaxis Highlighter in Python with examples in Python, Java and  C+
 
 Documentación Situacion Problema
